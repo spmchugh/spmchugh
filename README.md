@@ -1,16 +1,12 @@
-### Hi there 👋
+Hello there! I'm Sean McHugh
 
-<!--
-**spmchugh/spmchugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫 University of Wisconsin - Madison (Junior)
+  - Junior
+  - Majors:
+    💻 Computer Science
+    📈 Data Science
+    💰 Economics
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently looking for internships and experience
+📖 Learning about Artificial Intelligence and computer hardware this semester
+📫 You can email me at mchughseanp@gmail.com
