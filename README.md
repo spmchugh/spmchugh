@@ -1,10 +1,9 @@
 - 🏫 University of Wisconsin - Madison
-    - Junior
+    - Senior
     - Majors:
       - 💻 Computer Science
       - 📊 Data Science
       - 💰 Economics
-- 🔭 Currently looking for internships and experience
-- 📖 Learning about Artificial Intelligence and computer hardware this semester
+- 🔭 Currently looking for full time jobs post graduation
 - 📫 You can email me at mchughseanp@gmail.com
 
